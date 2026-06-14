@@ -24,3 +24,6 @@ In the end, I was able to pivot by simplifying the data. For example, in the lik
 
 Overall, this experience allowed me to learn more about data analysis and deal with real world data. Although I have experience with analysing data through programming, the dataset was often given to the class ready for analysis. I was able to learn how to deal with cleaning data, removing null values among formatting inconsistencies. I was able to learn how to use a new library in R that I hadn’t used before. 
 
+On Wednesday, we were introduced to a project Mathaf was working on in collaboration with google. Center Applied Imagination (CAI) that aims to connect scientists with artists to enable innovations through an AI lab. I am curious to learn more about the direction of the project and how it can impact the community. In addition, I am curious to learn more about the Mathaf Encyclopedia and how AI can be applied to create a database where the institutional knowledge of Mathaf can become more easily accessible to the public. 
+
+
