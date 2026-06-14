@@ -6,7 +6,7 @@ date: 2026-06-14
 
 In the first week of my internship at Mathaf, we focused on getting acquainted with the Museum and getting to know the visitors through observation and surveys. 
 
-On the first day, we toured the collections of Mathaf and learned about its history. I learned that it began from the collections of Sheikh Hassan bin Mohammed bin Ali Al Thani and served as an artistic hub where artists took residency and made up most of Mathaf's early collection. 
+On the first day, we toured the collections of Mathaf and learned about its history. I learned that it began from the collections of Sheikh Hassan and served as an artistic hub where artists took residency and made up most of Mathaf's early collection. 
 
 On the second day, we visited the National Museum of Qatar to observe the visitors and collect data on their interactions with the multimedia components of the museum. Afterwards, we were to analyse the data through programming tools. I chose to use R. Although we were not able to gather much data due to the small number of visitors on the day we visited, we were able to use a larger dataset collected in 2023. 
 
