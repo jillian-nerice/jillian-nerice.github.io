@@ -10,7 +10,7 @@ On the first day, we toured the collections of Mathaf and learned about its hist
 
 On the second day, we visited the National Museum of Qatar to observe the visitors and collect data on their interactions with the multimedia components of the museum. Afterwards, we were to analyse the data through programming tools. I chose to use R. Although we were not able to gather much data due to the small number of visitors on the day we visited, we were able to use a larger dataset collected in 2023. 
 
-During our tour of the National Museum, we learned not only about the history of Qatar but also about the ways it uses technology to enhance the visitor experience and how it was brought to life. The large wall projections in the Formation of Qatar and Natural Environments exhibits were created in partnership with Panasonic and utilizes numerous projectors to create high resolution images. In addition, the museum had interactive screens scattered through the space to display timelines and ultra high resolution images of displays that allow visitors to zoom in to see the most intricate details. 
+During our tour of the National Museum, we learned not only about the history of Qatar but also about the ways it uses technology to enhance the visitor experience and how it was brought to life. The large wall projections in the Formation of Qatar and Natural Environments exhibits were using a large number ofprojectors to create high resolution images. In addition, the museum had interactive screens scattered through the space to display timelines and ultra high resolution images of displays that allow visitors to zoom in to see the most intricate details. 
 
 In the data exploration section, I aimed to conduct a multivariate analysis to see the effects of different types of multimedia components in the museum to a variable like how much a visitor learns or how high they rate the experiences. I also wanted to add an interaction variable such as age range to see if the age of the visitors affected how much they learned from interactive screens. 
 
@@ -24,6 +24,5 @@ In the end, I was able to pivot by simplifying the data. For example, in the lik
 
 Overall, this experience allowed me to learn more about data analysis and deal with real world data. Although I have experience with analysing data through programming, the dataset was often given to the class ready for analysis. I was able to learn how to deal with cleaning data, removing null values among formatting inconsistencies. I was able to learn how to use a new library in R that I hadn’t used before. 
 
-On Wednesday, we were introduced to a project Mathaf was working on in collaboration with google. Center Applied Imagination (CAI) that aims to connect scientists with artists to enable innovations through an AI lab. I am curious to learn more about the direction of the project and how it can impact the community. In addition, I am curious to learn more about the Mathaf Encyclopedia and how AI can be applied to create a database where the institutional knowledge of Mathaf can become more easily accessible to the public. 
 
 
