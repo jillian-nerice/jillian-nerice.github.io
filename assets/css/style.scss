@@ -1,0 +1,10 @@
+.plot-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 15px;
+}
+
+.plot-grid img {
+  width: 100%;
+  height: auto;
+}
