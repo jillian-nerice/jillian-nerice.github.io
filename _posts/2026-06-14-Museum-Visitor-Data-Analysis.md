@@ -57,9 +57,11 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
 
 Afterwards, I wanted to investigate how different multimedia experiences affected the visitor experience. I chose to use learning as the main outcome variable to measure the user experience, with the explanatory variables being how often a user engaged with the interactive touch screens and the large wall projections. In addition to exploring different interaction types, I also chose these variables due to the high response rate of these variables in comparison to the other variables such as the interactive timeline engagement and audio tour variables that did not have as much data. 
 
-![Responses Per Question](/assets/images/learningByTouchScreen.png)
-![Responses Per Question](/assets/images/learningByProjections.png)
 
+<div class="two-grid">
+  <img src="/assets/images/learningByTouchScreen.png" onclick="openLightbox(this.src)">
+  <img src="/assets/images/learningByProjections.png" onclick="openLightbox(this.src)">
+</div>
 
 
 
