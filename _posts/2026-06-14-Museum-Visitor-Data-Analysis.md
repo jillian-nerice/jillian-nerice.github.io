@@ -51,7 +51,7 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
   <img id="lightbox-img">
 </div>
 
-##### Bar Graphs of Distributions of Visitor Experience with Multimedia Components
+<center>**Bar Graphs of Distributions of Visitor Experience with Multimedia Components**</center>
 
 
 
