@@ -25,4 +25,15 @@ In the end, I was able to pivot by simplifying the data. For example, in the lik
 Overall, this experience allowed me to learn more about data analysis and deal with real world data. Although I have experience with analysing data through programming, the dataset was often given to the class ready for analysis. I was able to learn how to deal with cleaning data, removing null values among formatting inconsistencies. I was able to learn how to use a new library in R that I hadn’t used before. 
 
 
+##Data Analysis
 
+<div class="plot-grid">
+  <img src="/assets/images/discussedDistribution.png">
+  <img src="/assets/images/enjoyedMoreDistribution.png">
+  <img src="/assets/images/feltInspiredDistribution.png">
+
+  <img src="/assets/images/learningDistribution.png">
+  <img src="/assets/images/moreTimeDistribution.png">
+  <img src="/assets/images/noticedDetailsDistribution.png">
+</div>
+``
