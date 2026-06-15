@@ -51,8 +51,7 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
   <img id="lightbox-img">
 </div>
 
-<center>**Bar Graphs of Distributions of Visitor Experience with Multimedia Components**</center>
-
+<center><strong>Bar Graphs of Distributions of Visitor Experience with Multimedia Components</strong></center>
 
 
 Afterwards, I wanted to investigate how different multimedia experiences affected the visitor experience. I chose to use learning as the main outcome variable to measure the user experience, with the explanatory variables being how often a user engaged with the interactive touch screens and the large wall projections. In addition to exploring different interaction types, I also chose these variables due to the high response rate of these variables in comparison to the other variables such as the interactive timeline engagement and audio tour variables that did not have as much data. 
