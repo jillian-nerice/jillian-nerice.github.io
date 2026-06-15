@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 1"
+title: "Week 1: Getting to Know the Visitors"
 date: 2026-06-14
 ---
 
