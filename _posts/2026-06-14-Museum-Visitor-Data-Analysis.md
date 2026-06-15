@@ -2,7 +2,6 @@
 layout: post
 title: "Week 1"
 date: 2026-06-14
-layout: default
 ---
 
 In the first week of my internship at Mathaf, we focused on getting acquainted with the Museum and getting to know the visitors through observation and surveys. 
