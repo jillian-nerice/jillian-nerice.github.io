@@ -38,7 +38,7 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
      onclick="openLightbox(this.src)">
   <img src="/assets/images/learningDistribution.png"
      onclick="openLightbox(this.src)">
-  <img src="/assets/images/moreTimeDistribution.png.png"
+  <img src="/assets/images/moreTimeDistribution.png"
      onclick="openLightbox(this.src)">
   <img src="/assets/images/noticedDetailsDistribution.png"
      onclick="openLightbox(this.src)">
