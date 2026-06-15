@@ -1,10 +1,13 @@
-.plot-grid {
+---
+---
+
+.plot_grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
 
-.plot-grid img {
+.plot_grid img {
   width: 100%;
   height: auto;
 }
