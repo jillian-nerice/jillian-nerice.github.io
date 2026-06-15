@@ -44,6 +44,10 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
      onclick="openLightbox(this.src)">
 </div>
 
+<div id="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img">
+</div>
+
 <script>
 function openLightbox(src) {
   document.getElementById("lightbox").style.display = "flex";
@@ -52,8 +56,3 @@ function openLightbox(src) {
 </script>
 
 
-
-
-<div id="lightbox" onclick="this.style.display='none'">
-  <img id="lightbox-img">
-</div>
