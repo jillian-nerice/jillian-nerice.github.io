@@ -1,1 +1,16 @@
+---
+---
 
+@import "minima";
+
+/* your custom styles */
+.plot-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.plot-grid img {
+  width: 100%;
+  height: auto;
+}
