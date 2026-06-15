@@ -2,3 +2,6 @@ title: Jillian's Mathaf Internship Blog
 description: Mathaf Internship Blog
 
 theme: minima
+
+sass:
+  style: compressed
