@@ -27,7 +27,7 @@ Overall, this experience allowed me to learn more about data analysis and deal w
 
 ## Data Analysis
 
-To begin my data analysis, I created graphs to visualize the distribution of visitor agreement with the questions about their perception of the multimedia experiences in the museum (eg. did it make them discuss, enjoy more, feel inspired, learn, spend more time than expected, notice details they wouldn't have otherwise). I found that all of the variables are left skewed, with the majority of respondents agreeing with the statements. 
+To begin my data analysis, I created graphs to visualize the distribution of visitor agreement with the questions about their perception of the multimedia experiences in the museum (eg. did it make them discuss, enjoy more, feel inspired, learn, spend more time than expected, notice details they wouldn't have otherwise). I found that all of the variables are left skewed, with the majority of respondents agreeing with the statements. This data shows that the visitors overall had a positive experience with the multimedia components of the museum. 
 
 <div class="plot-grid">
   <img src="/assets/images/discussedDistribution.png"
@@ -47,6 +47,14 @@ To begin my data analysis, I created graphs to visualize the distribution of vis
 <div id="lightbox" onclick="this.style.display='none'">
   <img id="lightbox-img">
 </div>
+
+Afterwards, I wanted to investigate how different multimedia experiences affected the visitor experience. I chose to use learning as the main outcome variable to measure the user experience, with the explanatory variables being how often a user engaged with the interactive touch screens and the large wall projections. In addition to exploring different interaction types, I also chose these variables due to the high response rate of these variables in comparison to the other variables such as the interactive timeline engagement and audio tour variables that did not have as much data. 
+
+![Responses Per Question](/assets/images/learningByTouchScreen.png)
+![Responses Per Question](/assets/images/learningByProjections.png)
+
+
+
 
 <script>
 function openLightbox(src) {
