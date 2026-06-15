@@ -30,12 +30,30 @@ Overall, this experience allowed me to learn more about data analysis and deal w
 To begin my data analysis, I created graphs to visualize the distribution of visitor agreement with the questions about their perception of the multimedia experiences in the museum (eg. did it make them discuss, enjoy more, feel inspired, learn, spend more time than expected, notice details they wouldn't have otherwise). I found that all of the variables are left skewed, with the majority of respondents agreeing with the statements. 
 
 <div class="plot-grid">
-  <img src="/assets/images/discussedDistribution.png">
-  <img src="/assets/images/enjoyedMoreDistribution.png">
-  <img src="/assets/images/feltInspiredDistribution.png">
-
-  <img src="/assets/images/learningDistribution.png">
-  <img src="/assets/images/moreTimeDistribution.png">
-  <img src="/assets/images/noticedDetailsDistribution.png">
+  <img src="/assets/images/discussedDistribution.png"
+     onclick="openLightbox(this.src)">
+  <img src="/assets/images/enjoyedMoreDistribution.png"
+     onclick="openLightbox(this.src)">
+  <img src="/assets/images/feltInspiredDistribution.png"
+     onclick="openLightbox(this.src)">
+  <img src="/assets/images/learningDistribution.png"
+     onclick="openLightbox(this.src)">
+  <img src="/assets/images/moreTimeDistribution.png.png"
+     onclick="openLightbox(this.src)">
+  <img src="/assets/images/noticedDetailsDistribution.png"
+     onclick="openLightbox(this.src)">
 </div>
-``
+
+<script>
+function openLightbox(src) {
+  document.getElementById("lightbox").style.display = "flex";
+  document.getElementById("lightbox-img").src = src;
+}
+</script>
+
+
+
+
+<div id="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img">
+</div>
