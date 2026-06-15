@@ -2,7 +2,9 @@
 ---
 
 @import "minima";
-
+body {
+  background-color: lightblue;
+}
 /* your custom styles */
 .plot-grid {
   display: grid;
