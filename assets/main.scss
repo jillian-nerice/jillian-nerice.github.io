@@ -31,3 +31,12 @@
   max-width: 90%;
   max-height: 90%;
 }
+
+.plot-grid img {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.plot-grid img:hover {
+  transform: scale(1.03);
+}
