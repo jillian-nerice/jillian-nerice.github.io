@@ -27,7 +27,7 @@ Overall, this experience allowed me to learn more about data analysis and deal w
 
 ## Data Analysis
 
-To begin my data analysis, I created graphs to visualize the distribution of visitor agreement with the questions about their perception of the multimedia experiences in the museum (eg. did it make them discuss, enjoy more, feel inspired, learn, spend more time than expected, notice details they wouldn't have otherwise). I found that all of the variables are right skewed, with the majority of respondents agreeing with the statements. 
+To begin my data analysis, I created graphs to visualize the distribution of visitor agreement with the questions about their perception of the multimedia experiences in the museum (eg. did it make them discuss, enjoy more, feel inspired, learn, spend more time than expected, notice details they wouldn't have otherwise). I found that all of the variables are left skewed, with the majority of respondents agreeing with the statements. 
 
 <div class="plot-grid">
   <img src="/assets/images/discussedDistribution.png">
