@@ -40,6 +40,8 @@ Since we did not have access to a list of artworks in each exhibition with high 
 
 The majority of Thursday was spent on the development of the website, as well as creating our data (taking pictures and writing down the attributes in an excel format). We decided to use a shared github repository to work on it collaboratively together. We thought we could develop most of the app on our personal devices then just clone the code into raspberry pi later. Although the app was not as polished as we would have liked by the end of the day, we decided to move on to running the app on the raspberry pi. We found that we were able to run the wensite, but it was more difficult trying to connect the rfid sensor to our code. We wanted to have each card represent a section in the exhibition, so that the user could scan a card to see the colours plotted on the colour wheel. However we were not able to implement that part, so only the buttons work. 
 
+![Finished Page](/assets/images/exhibitionPalette.jpg)
+
 
 <script>
 function openLightbox(src) {
