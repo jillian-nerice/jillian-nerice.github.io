@@ -33,11 +33,13 @@ After landing on Insightface as our software of choice, we started working on le
 
 Unfortunately, most of our images are unlabelled. The ones that are labelled, do not have each person specifically named. Some would have multiple people in a picture and labeled; "person A and person B working on project x." 
 
-
+What we ended up doing is having the code group together all the faces it extracted by similarity, so that hopefully, photos of the same person all end up in a cluster, and so on. These clusters could then later be named, and can be used as a knowledge base to compare future photos to to see if it is that person. By the end of Tuesday, we were able to get the clusters done. We each worked on this independently as we figured out how to use the insightface software and decided to use the code with better clustering. 
 
 
 # Wednesday
-Interface + Speech to text
+
+As the day was leading up to the demo-day, we decided it was more important to develop the interface so we would have a demonstrable outcome on the showcase. We worked on displaying the clusters. We also decided to use the elevenlabs speech to text api to implement a transcription feature as recommended to us. In the testing, we used our own files to see if the transcription works, as we did not know how the data would be used by the api and we were told that the information on the files could be confidential. We decided it would be best to leave that decision to the curatorial team, and we could just work on developing the prototype with our test files. 
+
 # Thursday
-Demo day
+On Thursday, we demonstrated our progress to Rachelle. We got a lot of feedback on what we can work on in the future and what new features we would develop next. For the next week, we decided to focus on implementing a user friendly method of naming the clusters and adding a video playback for the transcription with time stamps to make it easy to edit. Those are the points we decided to focus on, as the upcoming meeting is with the curatorial team, and so these are the most pressing matters. Given extra time, we will also explore using exiftools to imbed the images with metadata and work on exportation of data an an excel sheet. 
 
